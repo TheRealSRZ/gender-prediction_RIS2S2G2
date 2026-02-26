@@ -1,4 +1,4 @@
 # gender-prediction
 
-> Nothing to see here...
-* Lalalalalalalalalalalalalalala... :)*
+**Nothing to see here...**
+> Lalalalalalalalalalalalalalala... :)
